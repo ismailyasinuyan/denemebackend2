@@ -21,7 +21,7 @@ allprojects {
         maven {
             url "https://jitpack.io"
         }
-    }
+    }njjjjjjjjjjjjjjjjhhjhhjjhhjjhhhjjhjhjhhjjhjhjhhj
 
     ext {
         sdkVersion = 24
